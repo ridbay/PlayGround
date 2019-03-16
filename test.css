@@ -1,0 +1,87 @@
+.main{
+    
+    position: absolute;
+    width: 375px;
+    height: 667px;
+    background: linear-gradient(150.56deg, #7117EA 23.13%, #8422D5 52.58%, #982EBE 74.5%, #CF507F 99.19%, #EA6060 111.13%);
+}
+
+header{
+    position: absolute;
+    width: 303px;
+    height: 59px;
+}
+p{
+    position: absolute;
+width: 300px;
+height: 33px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+font-size: 28px;
+text-align: center;
+letter-spacing: 0.0357em;
+
+color: #F2F2F2;
+}
+
+#name{
+    position: absolute;
+width: 250px;
+height: 48px;
+}
+.inputName{
+    position: absolute;
+    width: 169px;
+    height: 24px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 10px;
+    letter-spacing: 0.0357em;
+    
+    color: #FFFFFF;
+}
+
+.button2{
+position: absolute;
+width: 153px;
+height: 36px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25), 0px 8px 8px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+}
+.button1{
+    position: absolute;
+    width: 153px;
+    height: 36px;
+    left: 0px;
+    top: 0px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25), 0px 8px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    }
+
+/* button{
+    position: absolute;
+width: 153px;
+height: 36px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+font-size: 14px;
+text-align: center;
+letter-spacing: 0.0357em;
+
+color: #7117EA;
+
+mix-blend-mode: darken;
+} */
